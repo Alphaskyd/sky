@@ -1,0 +1,56 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 31 Jan 2024 20:44:59 at https://eco-life-smile.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://eco-life-smile.com/ -O1 "C:\My Web Sites\sky" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:53:39	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 9667): eco-life-smile.com/wp-content/uploads/2021/08/28302.png
+20:57:19	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 5239): eco-life-smile.com/wp-content/uploads/2021/08/duckboards.png
+20:57:51	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 21473): eco-life-smile.com/wp-content/uploads/2021/08/dea4563117f803949d32c60858218b3c.png
+21:00:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/r (from https://eco-life-smile.com/)
+21:00:18	Error: 	"Forbidden" (403) at link https://eco-life-smile.com/Firefox/ (from https://eco-life-smile.com/)
+21:00:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/wp-content/themes/generatepress_child (from https://eco-life-smile.com/)
+21:00:22	Error: 	"Forbidden" (403) at link eco-life-smile.com/wp-json/ (from https://eco-life-smile.com/)
+21:00:22	Error: 	"Forbidden" (403) at link eco-life-smile.com/wp-json/wp/v2/pages/2 (from https://eco-life-smile.com/)
+21:00:22	Error: 	"Forbidden" (403) at link eco-life-smile.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feco-life-smile.com%2F (from https://eco-life-smile.com/)
+21:00:22	Error: 	"Forbidden" (403) at link eco-life-smile.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feco-life-smile.com%2F&format=xml (from https://eco-life-smile.com/)
+21:00:23	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://eco-life-smile.com/)
+21:01:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/estimate/ (from https://eco-life-smile.com/)
+21:01:01	Warning: 	Retry after error -4 (No data (connection closed)) at link eco-life-smile.com/wp-content/themes/generatepress_child/assets/images/common/icon-tel.png (from https://eco-life-smile.com/)
+21:15:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/report/saitama-kuki-2ldk-2021-3-3/ (from https://eco-life-smile.com/)
+21:15:32	Error: 	"Forbidden" (403) at link https://eco-life-smile.com/estimate-pack/?pack=S%e3%83%91%e3%83%83%e3%82%af(%e8%bb%bd%e3%83%88%e3%83%a9%e3%83%83%e3%82%af) (from https://eco-life-smile.com/)
+21:15:32	Error: 	"Forbidden" (403) at link https://eco-life-smile.com/estimate-pack/?pack=M%e3%83%91%e3%83%83%e3%82%af(1.5t%e3%83%88%e3%83%a9%e3%83%83%e3%82%af) (from https://eco-life-smile.com/)
+21:15:33	Error: 	"Forbidden" (403) at link https://eco-life-smile.com/estimate-pack/?pack=L%e3%83%91%e3%83%83%e3%82%af(2t%e3%83%88%e3%83%a9%e3%83%83%e3%82%af) (from https://eco-life-smile.com/)
+21:15:33	Error: 	"Forbidden" (403) at link https://eco-life-smile.com/estimate-pack/?pack=LL%e3%83%91%e3%83%83%e3%82%af(4t%e3%83%88%e3%83%a9%e3%83%83%e3%82%af) (from https://eco-life-smile.com/)
+21:17:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/sodaigomi/moving-garbage-disposalmethod/ (from https://eco-life-smile.com/)
+21:18:46	Error: 	"Forbidden" (403) at link https://eco-life-smile.com/terms/ (from https://eco-life-smile.com/)
+21:22:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/appliances/refrigerator-disposal/ (from https://eco-life-smile.com/)
+21:22:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/appliances/electric-bed/ (from https://eco-life-smile.com/)
+21:22:10	Warning: 	Retry after error -4 (No data (connection closed)) at link eco-life-smile.com/wp-content/uploads/2021/08/42c0b5bb45f0d3848045a35e88309133.png (from https://eco-life-smile.com/)
+21:27:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/appliances/outdoor-unit-disposal/ (from https://eco-life-smile.com/)
+21:29:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/appliances/yamadadenki-withdrawal/ (from https://eco-life-smile.com/)
+21:30:48	Warning: 	Retry after error -4 (No data (connection closed)) at link eco-life-smile.com/wp-content/uploads/2022/10/85b2290fa1232514a597b03119ff176f.png (from https://eco-life-smile.com/)
+21:33:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/appliances/keyboard-disposal/ (from https://eco-life-smile.com/)
+21:33:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/appliances/water-server/ (from https://eco-life-smile.com/)
+21:33:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/appliances/wine-seller/ (from https://eco-life-smile.com/)
+21:39:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/appliances/hair-iron-disposal/ (from https://eco-life-smile.com/)
+21:40:22	Warning: 	Retry after error -4 (No data (connection closed)) at link eco-life-smile.com/wp-content/uploads/2021/08/774fe1c964ec235e7cb39f585e0d1e0d.png (from https://eco-life-smile.com/)
+21:42:39	Error: 	Exit requested by shell or user
+21:42:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/furniture/dresser/ (from https://eco-life-smile.com/)
+21:42:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/furniture/bed-frame/ (from https://eco-life-smile.com/)
+21:42:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/furniture/ikea-withdrawal/ (from https://eco-life-smile.com/)
+21:42:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/furniture/nitori-withdrawal/ (from https://eco-life-smile.com/)
+21:43:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/furniture/chest-disposal/ (from https://eco-life-smile.com/)
+21:43:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eco-life-smile.com/furniture/couch-disposal/ (from https://eco-life-smile.com/)
+21:43:10	Error: 	Exit requested by shell or user
+21:43:10	Error: 	"" (-1) at link https://eco-life-smile.com/rubbish/house-plants/ (from https://eco-life-smile.com/)
+21:43:10	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 58 minutes 11 seconds : 1381 links scanned, 713 files written (93110574 bytes overall) [70580356 bytes received at 20217 bytes/sec], 35932413 bytes transferred using HTTP compression in 346 files, ratio 28%, 2.1 requests per connection
+(15 errors, 26 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
